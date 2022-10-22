@@ -1,0 +1,2 @@
+# compat
+Compatwirless for linux
